@@ -6,7 +6,7 @@ This Power BI dashboard analyzes fraudulent transaction patterns, risk exposure,
 
 ## Dashboard Preview
 
-![Dashboard](dashboard-overview.png)
+![Dashboard](dashboard-overview.png.jpg)
 
 ## Business Problem
 
